@@ -98,7 +98,7 @@
 I'm actively looking for **remote backend developer roles** (Python/Django or Laravel/PHP). Feel free to reach out — always happy to talk backend architecture, competitive programming, or CS education.
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN](https://www.linkedin.com/in/mina-eissa-5b71aa1aa/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mina-eissa-5b71aa1aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:minaeissa26@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
